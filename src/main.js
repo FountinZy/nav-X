@@ -6,6 +6,8 @@ const hashMap = xObject || [
     {logo:'A',url:'https://www.acfun.cn/'},
     {logo:'B',url:'https://www.bilibili.com/'},
     {logo:'C',url:'https://www.cctv.com/'},
+    {logo:'D',url:'http://www.dangdang.com/'},
+
 ];//初始hashmap
 
 const simplifyUrl= (url)=>{
