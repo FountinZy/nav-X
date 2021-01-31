@@ -5,6 +5,7 @@ const xObject = JSON.parse(x)//把字符串'x'转化为对象
 const hashMap = xObject || [
     {logo:'A',url:'https://www.acfun.cn/'},
     {logo:'B',url:'https://www.bilibili.com/'},
+    {logo:'C',url:'https://www.cctv.com/'},
 ];//初始hashmap
 
 const simplifyUrl= (url)=>{
